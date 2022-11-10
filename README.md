@@ -1,7 +1,7 @@
 # 2023 NRL Draw
 Clean and accessible versions of the 2023 NRL Draw. All data sourced from nrl.com.
 
-Data Columns and Meanings
+## Data Columns and Meanings
 - `roundTitle` ~ the round number preceded by the string "Round"
 - `venue` ~ the commercial name of the venue
 - `venueCity` ~ the broader region of which the game is played
